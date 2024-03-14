@@ -1,1 +1,1 @@
-### Simple Snake Game in C
+# Simple Snake Game in C
